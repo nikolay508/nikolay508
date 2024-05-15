@@ -6,7 +6,7 @@
 
 # 💻 Work
 - Freelance part-time work at UpWork
-- Programming lecturer of "Basics in JavaScript"
+- Programming lecturer of "First Steps in Javascript"
 
 # ✉️ Contact
 - My Email - nikolay.b.todorov@gmail.com
