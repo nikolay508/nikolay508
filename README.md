@@ -9,7 +9,7 @@
 - Programming lecturer of "First Steps in Javascript"
 
 # 🏋️‍♂️ Hobbies
--Calisthenics, Football, Basketball, Running, Chess
+- Calisthenics, Football, Basketball, Running, Swimming, Chess
 
 # ✉️ Contact
 - My Email - nikolay.b.todorov@gmail.com
