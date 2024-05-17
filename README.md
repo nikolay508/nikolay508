@@ -6,10 +6,10 @@
 
 # 💻 Work
 - Freelance part-time work with UpWork
-- Programming lecturer of "First Steps in Javascript"
+- Programming lecturer of "First Steps in Javascript" as school project
 
 # 🏋️‍♂️ Hobbies
-- Calisthenics, Football, Basketball, Chess
+- Calisthenics, Football, Basketball, Chess, Reading, Voluntary work, Learning new skills
 
 # ✉️ Contact
 - My Email - nikolay.b.todorov@gmail.com
