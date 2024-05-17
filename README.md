@@ -8,6 +8,9 @@
 - Freelance part-time work with UpWork
 - Programming lecturer of "First Steps in Javascript"
 
+# 🏋️‍♂️ Hobbies
+-Calisthenics, Football, Basketball, Running, Chess
+
 # ✉️ Contact
 - My Email - nikolay.b.todorov@gmail.com
 - My Instagram - @nikolay508
