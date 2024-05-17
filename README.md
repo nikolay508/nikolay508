@@ -1,7 +1,7 @@
 # Hi, I am Nikolay Todorov 🇧🇬
 
 # 🎓 Education
-- Software University - Half way through professional education with JavaScript
+- Software University - Halfway through professional education with JavaScript
 - School - Second English Language High School "Thomas Jefferson"
 
 # 💻 Work
