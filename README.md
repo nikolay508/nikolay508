@@ -16,9 +16,9 @@
 - Programming lecturer of "First Steps in Javascript" as school project
 
 ## 🔭 Projects
-- 🧑‍🏫 **STEM Swift Academy** - a personal project which aims to provide students with high-quality online exam preparation. It is the first educational app in Bulgaria to implement some of the most effective study techniques, such as Active Recall, Spaced Repetition, Kolb's Experiential cycle, Priming, etc. - https://github.com/alexmehandzhiyska/stem-swift-academy<br><br> 
-- 👧 **DaDay** - a kids mental health app I started working on during the HackAUBG 4.0 hackathon. I am responsible for the front-end part of the app, and I work in a dev team with Diyan Kalaydzhiev. - https://github.com/alexmehandzhiyska/DaDay<br><br> 
-- 💰 **Postbank Discount Management App** - a project I developed in a team with Miro and Georgi during SoftUni Fest 2022 (a 48-hour hackathon) - https://github.com/alexmehandzhiyska/postbank-fe
+- 🌐 **AI Chatbot** - This project is a chatbot with which you can chat just like any other Artificial Intelligence chatbot. It is made with JavaScript, HTML, CSS. It is using the Gemini API from Google. You can ask him any question and he will respond in seconds.<br><br> 
+- 🏈 **School Activities** - I created this site for my exam at SoftUni. It has back-end and front-end part. The back-end is made with NodeJS and the front-end is made with Angular. It stores activities made by the logged-in users. Every logged-in user can sign for an activity and if he wants to find a specific one he can do so with the search feature.<br><br> 
+- 👨🏼‍💻 **Personal Site** -Created the project based on myself using client-side rendering. Implemented with JavaScript, HTML and CSS. It is not fully developed yet but the idea is that every user could look up my work, my experience, education and being able to contact me more easily with a well-made site.
 <br><br>
 
 ## Technologies and tools
