@@ -33,7 +33,7 @@
 <img align="left" alt="nodejs" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="mongodb" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="heroku" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
-<br><br><br><br>
+<br><br>
 
 # 🏋️‍♂️ Hobbies
 - Calisthenics, Football, Basketball, Chess, Reading, Voluntary work, Learning new skills
