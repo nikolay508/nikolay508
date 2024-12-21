@@ -40,5 +40,4 @@
 - Calisthenics, Football, Basketball, Chess, Reading, Voluntary work, Learning new skills
 
 # ✉️ Contact
-- My Email - nikolay.b.todorov@gmail.com
-- My Instagram - @nikolay508
+- You can connect with me any time through my email - nikolay.b.todorov@gmail.com
