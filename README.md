@@ -13,7 +13,7 @@
 
 # 💻 Work
 - I participated a couple times as a member of the SEC in the elections in my country.
-It is not tech related but there was a lot of team work and problem solving envolved in the process.
+It is not tech related experience but there was a lot of team work and problem solving envolved in the process.
 
 # 🚀 Projects
 - 🌐 **AI Chatbot** - This project is a chatbot with which you can chat just like any other Artificial Intelligence chatbot. It is made with JavaScript, HTML, CSS. It is using the Gemini API from Google. You can ask him any question and he will respond in seconds. - https://github.com/nikolay508/AI-Chatbot <br><br> 
