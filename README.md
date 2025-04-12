@@ -12,8 +12,7 @@
 - School - Second English Language High School "Thomas Jefferson"
 
 # 💻 Work
-- I participated a couple times as a member of the SEC in the elections in my country.
-It is not tech related experience but there was a lot of team work and problem solving envolved in the process.
+- **Intern Front-End Developer** - Working as intern for Cost-Effective Solutions I contributed to a real estate app by developing features, collaborating with designers and developers, conducting code reviews, and troubleshooting technical issues.
 
 # 🚀 Projects
 - 💬 **Chatty** - This chat app was developed for my SoftUni exam project. It features a Node.js back-end, a React front-end, user-to-user messaging, theme switching, and profile picture customization. - https://github.com/nikolay508/MERN-Real-Time-Chat-App <br><br> 
