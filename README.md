@@ -18,7 +18,7 @@ It is not tech related experience but there was a lot of team work and problem s
 # 🚀 Projects
 - 💬 **Chatty** - This chat app was developed for my SoftUni exam project. It features a Node.js back-end, a React front-end, user-to-user messaging, theme switching, and profile picture customization. - https://github.com/nikolay508/MERN-Real-Time-Chat-App <br><br> 
 - 🇧🇬 **Guía Turística: Bulgaria** - This project, created for a Spanish class, showcases Bulgaria's rich history, culture, and beauty. Entirely in Spanish, it aims to introduce more people to this often-overlooked country. - https://github.com/nikolay508/Guia-turistica-Bulgaria <br><br> 
-- 🏈 **School Activities** - I created this site for my exam at SoftUni. The back-end is made with NodeJS and the front-end is made with Angular. It stores activities made by the logged-in users. Every logged-in user can sign for an activity and if he wants to find a specific one he can do so with the search feature. - https://github.com/nikolay508/SoftUni-Angular-Exam <br><br> 
+- 🏈 **School Activities** - This school activities platform was built for my SoftUni exam project using Node.js (back-end) and Angular (front-end). Logged-in users can explore, join, manage, and search for activities with ease. - https://github.com/nikolay508/SoftUni-Angular-Exam <br><br> 
 
 # </> Technologies and tools
 
