@@ -9,7 +9,7 @@
   <a href="https://nikolays-website.vercel.app">
     <img align="center" alt="Nikolay's Website" width="30px" src="https://github.com/user-attachments/assets/3d10b2fb-75b0-4444-85db-8b4954e3f3be" />
   </a>
-</p>
+</p><br>
 
 # 🎓 Education
 - The Open University - Bachelor's degree in Computing, IT & Business (Undergraduate)
