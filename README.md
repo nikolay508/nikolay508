@@ -1,4 +1,5 @@
 <h1 align="center">Hello, I'm Nikolay 🇧🇬</h1>
+<p align="center">
   <a href="https://www.instagram.com/nikolay508/">
     <img align="center" alt="Nikolay's Instagram" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
   </a>
@@ -8,6 +9,7 @@
   <a href="https://nikolays-website.vercel.app">
     <img align="center" alt="Nikolay's Website" width="30px" src="https://github.com/user-attachments/assets/3d10b2fb-75b0-4444-85db-8b4954e3f3be" />
   </a>
+</p>
 <br>
 
 # 🎓 Education
