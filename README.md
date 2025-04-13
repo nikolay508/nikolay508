@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Nikolay 🇧🇬</h1>
 <p align="center">
   <a href="https://www.instagram.com/nikolay508/">
-    <img align="center" alt="Nikolay's Instagram" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+    <img align="center" margin-right="5px" alt="Nikolay's Instagram" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
   </a>
   <a href="https://www.linkedin.com/in/n-todorov508/">
     <img align="center" alt="Nikolay's LinkedIn" width="30px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" />
