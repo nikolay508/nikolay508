@@ -42,8 +42,7 @@
 <img align="left" alt="postgresql" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="supabase" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" />
 <img align="left" alt="git" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
-
-<br>
+</br>
 
 # 🏋️‍♂️ Hobbies
 - Calisthenics, Football, Basketball, Chess, Reading, Voluntary work, Learning new skills
