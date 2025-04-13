@@ -5,7 +5,7 @@
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/n-todorov508/">
     <img align="center" alt="Nikolay's LinkedIn" width="30px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://nikolays-website.vercel.app">
     <img align="center" alt="Nikolay's Website" width="30px" src="https://github.com/user-attachments/assets/3d10b2fb-75b0-4444-85db-8b4954e3f3be" />
   </a>
