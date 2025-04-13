@@ -25,7 +25,6 @@
 - 📝 **NoteQuote** - Developed a friend's idea for an app which makes it easier for people to share their notes, thought and favourite quotes. Users can share and see their friends posts with their personal account. - https://github.com/nikolay508/NoteQuote
 
 # </> Technologies and tools
-
 <img align="left" alt="html" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
 <img align="left" alt="css" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
 <img align="left" alt="tailwind" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" />
