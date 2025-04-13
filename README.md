@@ -18,7 +18,7 @@
 # 🚀 Projects
 - 💬 **Chatty** - This chat app was developed for my SoftUni exam project. It features a Node.js back-end, a React front-end, user-to-user messaging, theme switching, and profile picture customization. - https://github.com/nikolay508/MERN-Real-Time-Chat-App <br><br> 
 - 🇧🇬 **Guía Turística: Bulgaria** - This project, created for a Spanish class, showcases Bulgaria's rich history, culture, and beauty. Entirely in Spanish, it aims to introduce more people to this often-overlooked country. - https://github.com/nikolay508/Guia-turistica-Bulgaria <br><br> 
-- 🏈 **School Activities** - This school activities platform was built for my SoftUni exam project using Node.js (back-end) and Angular (front-end). Logged-in users can explore, join, manage, and search for activities with ease. - https://github.com/nikolay508/SoftUni-Angular-Exam <br><br> 
+- 📝 **NoteQuote** - Developed a friend's idea for an app which makes it easier for people to share their notes, thought and favourite quotes. Users can share and see their friends posts with their personal account. - https://github.com/nikolay508/NoteQuote <br><br> 
 
 # </> Technologies and tools
 
