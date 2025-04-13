@@ -1,4 +1,4 @@
-# Hello, I'm Nikolay 🇧🇬
+<h1 align="center">Hello, I'm Nikolay 🇧🇬<h1/>
 <a href="https://www.instagram.com/nikolay508/">
   <img align="left" alt="Nikolay's Instagram" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
