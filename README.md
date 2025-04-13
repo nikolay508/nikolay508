@@ -1,6 +1,6 @@
 # Hello, I'm Nikolay 🇧🇬
 <a href="https://www.instagram.com/nikolay508/">
-  <img align="left" alt="Nikolay's Instagram" width="25px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Nikolay's Instagram" width="27px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/n-todorov508/">
   <img align="left" alt="Nikolay's LinkedIn" width="27px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" />
