@@ -1,4 +1,4 @@
-# Hi, I am Nikolay Todorov 🇧🇬
+# Hello, I'm Nikolay 🇧🇬
 <a href="https://www.instagram.com/nikolay508/">
   <img align="left" alt="Nikolay's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
