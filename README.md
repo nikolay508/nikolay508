@@ -6,7 +6,7 @@
   <img align="left" alt="Nikolay's LinkedIn" width="25px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" />
 </a>
 <a href="https://www.linkedin.com/in/n-todorov508/">
-  <img align="left" alt="Nikolay's LinkedIn" width="25px" src="[![image](https://github.com/user-attachments/assets/3d10b2fb-75b0-4444-85db-8b4954e3f3be)](https://static-00.iconduck.com/assets.00/globe-with-meridians-emoji-512x512-h81jq4m1.png)" />
+  <img align="left" alt="Nikolay's LinkedIn" width="25px" src="https://github.com/user-attachments/assets/3d10b2fb-75b0-4444-85db-8b4954e3f3be" />
 </a>
 <br>
 
