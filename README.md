@@ -12,8 +12,8 @@
 </p><br>
 
 # 🎓 Education
-- The Open University - Bachelor's degree in Computing, IT & Business (Undergraduate)
-- Software University - Professional degree in Software Engineering (Graduated)
+- The Open University - Bachelor's degree in Computing, IT & Business (Undergraduate)<br><br>
+- Software University - Professional degree in Software Engineering (Graduated)<br><br>
 - High School - Second English Language High School "Thomas Jefferson" (Graduated)
 
 # 💻 Work
