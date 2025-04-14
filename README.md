@@ -18,7 +18,7 @@
 
 # 💻 Work
 - **Intern Front-End Developer** - Working as intern for Cost-Effective Solutions I contributed to a real estate app by developing features, collaborating with designers and developers, conducting code reviews, and troubleshooting technical issues.<br><br>
-- **Programming Lecturer** - At Software University, I am teaching a large beginner audience the basics of programming with JavaScript through hands-on exercises and real-world examples.
+- **Programming Lecturer** - At Software University, I teach a large group of beginners the fundamentals of programming with JavaScript, using hands-on exercises and real-world examples.
 
 # 🚀 Projects
 - 💬 **Chatty** - This chat app was developed for my SoftUni exam project. It features a Node.js back-end, a React front-end, user-to-user messaging, theme switching, and profile picture customization. - https://github.com/nikolay508/MERN-Real-Time-Chat-App <br><br> 
