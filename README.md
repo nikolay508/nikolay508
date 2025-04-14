@@ -17,6 +17,7 @@
 - High School - Second English Language High School "Thomas Jefferson" (Graduated)
 
 # 💻 Work
+- **Programming Lecturer** - At Software University, I am teaching a large beginner audience the basics of programming with JavaScript through hands-on exercises and real-world examples.
 - **Intern Front-End Developer** - Working as intern for Cost-Effective Solutions I contributed to a real estate app by developing features, collaborating with designers and developers, conducting code reviews, and troubleshooting technical issues.
 
 # 🚀 Projects
