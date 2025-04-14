@@ -18,12 +18,12 @@
 
 # 💻 Work
 - **Intern Front-End Developer** - Working as intern for Cost-Effective Solutions I contributed to a real estate app by developing features, collaborating with designers and developers, conducting code reviews, and troubleshooting technical issues.<br><br>
-- **Programming Lecturer** - At Software University, I teach a large group of beginners the basics of programming with JavaScript, using hands-on exercises and real-world examples.
+- **Programming Lecturer** - At Software University, I teach a large group of beginners the basics of programming with JavaScript, using hands-on exercises and real-world examples.<br><br>
 
 # 🚀 Projects
 - 💬 **Chatty** - This chat app was developed for my SoftUni exam project. It features a Node.js back-end, a React front-end, user-to-user messaging, theme switching, and profile picture customization. - https://github.com/nikolay508/MERN-Real-Time-Chat-App <br><br> 
 - 🇧🇬 **Guía Turística: Bulgaria** - This project, created for a Spanish class, showcases Bulgaria's rich history, culture, and beauty. Entirely in Spanish, it aims to introduce more people to this often-overlooked country. - https://github.com/nikolay508/Guia-turistica-Bulgaria <br><br> 
-- 📝 **NoteQuote** - Developed a friend's idea for an app which makes it easier for people to share their notes, thought and favourite quotes. Users can share and see their friends posts with their personal account. - https://github.com/nikolay508/NoteQuote
+- 📝 **NoteQuote** - Developed a friend's idea for an app which makes it easier for people to share their notes, thought and favourite quotes. Users can share and see their friends posts with their personal account. - https://github.com/nikolay508/NoteQuote<br><br>
 
 # </> Technologies and tools
 <img align="left" alt="html" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
@@ -39,10 +39,10 @@
 <img align="left" alt="postgresql" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="supabase" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" />
 <img align="left" alt="git" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" /><br><br>
-
+<br><br>
 
 # 🏋️‍♂️ Hobbies
-- Calisthenics, Football, Basketball, Chess, Reading, Voluntary work, Learning new skills
+- Calisthenics, Football, Basketball, Chess, Reading, Voluntary work, Learning new skills<br><br>
 
 # ✉️ Contact
 - You can connect with me any time through my email - nikolay.b.todorov@gmail.com
