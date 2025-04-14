@@ -7,7 +7,7 @@
     <img align="center" alt="Nikolay's LinkedIn" width="30px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" />
   </a> &nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@n_todorov508">
-    <img align="center" alt="Nikolay's YouTube" width="30px" src="https://static.vecteezy.com/system/resources/previews/023/986/480/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png" />
+    <img align="center" alt="Nikolay's YouTube" width="30px" src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" />
   </a> &nbsp;&nbsp;&nbsp;
   <a href="https://nikolays-website.vercel.app">
     <img align="center" alt="Nikolay's Website" width="30px" src="https://github.com/user-attachments/assets/3d10b2fb-75b0-4444-85db-8b4954e3f3be" />
