@@ -14,7 +14,7 @@
 # 🎓 Education
 - The Open University - Bachelor's degree in Computing, IT & Business (Undergraduate)<br><br>
 - Software University - Professional degree in Software Engineering (Graduated)<br><br>
-- High School - Second English Language High School "Thomas Jefferson" (Graduated)
+- High School - Second English Language High School "Thomas Jefferson" (Graduated)<br><br>
 
 # 💻 Work
 - **Intern Front-End Developer** - Working as intern for Cost-Effective Solutions I contributed to a real estate app by developing features, collaborating with designers and developers, conducting code reviews, and troubleshooting technical issues.<br><br>
