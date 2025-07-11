@@ -20,9 +20,9 @@
 - **High School** - Second English Language High School "Thomas Jefferson" (Graduated)<br><br>
 
 # 💻 Work
-- **Intern Software Developer** - Contributing to the development of a startup platform that connects high school students with university mentors. Developing frontend and backend features, integrating UI designs, and optimizing performance while collaborating with designers and engineers.<br><br>
-- **Intern Front-End Developer** - Working as intern for Cost-Effective Solutions I contributed to a real estate app by developing features, collaborating with designers and developers, conducting code reviews, and troubleshooting technical issues.<br><br>
-- **Programming Lecturer** - At Software University, I teach a large group of beginners the basics of programming with JavaScript, using hands-on exercises and real-world examples.<br><br>
+- **Intern Software Developer at Unimenty** - Contributing to the development of a startup platform that connects high school students with university mentors. Developing frontend and backend features, integrating UI designs, and optimizing performance while collaborating with designers and engineers.<br><br>
+- **Intern Front-End Developer at Cost-Effective** - Working as intern for Cost-Effective Solutions I contributed to a real estate app by developing features, collaborating with designers and developers, conducting code reviews, and troubleshooting technical issues.<br><br>
+- **Programming Lecturer at SoftUni** - I have the opportunity to introduce and teach a lot of new students to build their problem-solving skills and develop strong understanding of programming.<br><br>
 
 # 🚀 Top Projects
 - 💬 **Chatty** - This chat app was developed for my SoftUni exam project. It features a Node.js back-end, a React front-end, user-to-user messaging, theme switching, and profile picture customization. - https://github.com/nikolay508/MERN-Real-Time-Chat-App <br><br> 
