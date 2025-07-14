@@ -20,7 +20,7 @@
 - **High School** - Second English Language High School "Thomas Jefferson" (Graduated)<br><br>
 
 # 💻 Work
-- **Intern Software Developer at Unimenty** - Contributing to the development of a startup platform that connects high school students with university mentors. Developing frontend and backend features, integrating UI designs, and optimizing performance while collaborating with designers and engineers.<br><br>
+- **Intern Software Developer at Unimenty** - Contributed to the development of a startup platform that connects high school students with university mentors. Developed frontend and backend features, integrating UI designs, and optimizing performance while collaborating with designers and engineers.<br><br>
 - **Intern Front-End Developer at Cost-Effective** - Working as intern I contributed to a real estate app by developing features, collaborating with designers and developers, conducting code reviews, and troubleshooting technical issues.<br><br>
 - **Programming Lecturer at SoftUni** - I have the opportunity to introduce and teach a lot of new students to build their problem-solving skills and develop strong understanding of programming.<br><br>
 
