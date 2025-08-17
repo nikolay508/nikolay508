@@ -18,8 +18,8 @@
 
 # 💻 Work
 - **Backend Developer at Dreamshot** - Working on and developing the backend of the games we build, I contribute by writing sustainable code, crafting precise tests, and ensuring everything runs smoothly. I collaborate closely with designers and developers, conduct code reviews, and troubleshoot technical issues.<br><br>
-- **Intern Software Developer at Unimenty** - Contributed to the development of a startup platform that connects high school students with university mentors. Developed frontend and backend features, integrating UI designs, and optimizing performance while collaborating with designers and engineers.<br><br>
 - **Programming Lecturer at SoftUni** - I have the opportunity to introduce and teach a lot of new students to build their problem-solving skills and develop strong understanding of programming.<br><br>
+- **Intern Software Developer at Unimenty** - Contributed to the development of a startup platform that connects high school students with university mentors. Developed frontend and backend features, integrating UI designs, and optimizing performance while collaborating with designers and engineers.<br><br>
 
 # 🚀 Top Projects
 - 💬 **Chatty** - This chat app was developed for my SoftUni exam project. It features a Node.js back-end, a React front-end, user-to-user messaging, theme switching, and profile picture customization. - https://github.com/nikolay508/MERN-Real-Time-Chat-App <br><br> 
